@@ -1,0 +1,13 @@
+in Updated-Task-02 directory
+
+-ls
+-ls -a 
+-tar xvf .level-1.tar
+-cd .level-1
+-ls
+-cat README.txt
+-tar xvzf level-2
+-cd level-2
+-ls -a | grep level-3
+-find . -name "level-3"
+-cd gBT5u0vLT5
