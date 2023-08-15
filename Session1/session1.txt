@@ -1,0 +1,38 @@
+$ mkdir Mohamed _ Amir
+$ cd \Mohamed_Amir
+
+$ mkdir Documents.
+$ cd Documents.
+
+$ touch filel.txt file2.txt file3.txt
+$ ls
+
+$ touch . hiddenfile
+$ ls
+$ ls -a
+
+$ cd Documents.
+$ nano file1.txt
+$ cat file1.txt
+
+$ cd ..
+
+$ mkdir ./-
+$ cd ..
+
+$ cp -r Documents. Mohamed_Amir      NOTE:"the copied file goes to Mohamed_Amir directory AND its name set to "Mohamed_Amir"".
+$ mv Mohamed_Amir My_Documents
+
+$ ls -a 
+
+$ cd Documents.
+$ mv file2.txt ..
+$ mv file3.txt ..
+$ cd ..
+$ ls 
+
+$ cd ..
+$ ls
+$ rm -r Mohamed_Amir
+$ ls
+
